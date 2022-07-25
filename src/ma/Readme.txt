@@ -21,3 +21,8 @@ palce your jar file in respective folder
 and follow the JDBC Syntax
 ref - https://docs.oracle.com/javase/tutorial/jdbc/basics/index.html
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+Final product i.r Student Management System 
+with all the Exceptions and Errors catching
+to avoid Abnormal Termination and making Program Crash Proof
+Also saving and Retriving Data in SQL Database 
+which allows user as well as server to store and view data
